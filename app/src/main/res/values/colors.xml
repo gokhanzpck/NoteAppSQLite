@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="acıkMavi">#C9DFF2</color>
+    <color name="mavi">#4F5873</color>
+    <color name="beyaz">#E9F1F2</color>
+    <color name="pembe">#BF4E6D</color>
+    <color name="kanKırmızı">#400308</color>
+    <color name="aaa">#00CCC0</color>
+</resources>
